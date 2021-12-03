@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=obiwac)](https://github.com/anuraghazra/github-readme-stats?show_icons=true&theme=onedark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=obiwac&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
