@@ -18,7 +18,7 @@ Nutraloaf.
 # Projects?
 
 - [Minecraft clone & 3D graphics programming tutorial series in Python](https://github.com/obiwac/python-minecraft-clone)
-- [aquaBSD, OS forked from FreeBSD geared towards general users with a custom installer, WM & EGL compositor, UI system, apps, package format (ZPK) & distribution system (Pat Shack), and seamless network device sharing (GrapeVine)](https://github.com/inobulles/aquabsd/releases)
+- [aquaBSD, OS forked from FreeBSD geared towards general users with a custom installer, WM & EGL compositor, UI system, apps, package format (ZPK) & distribution system (Pat Shack), and seamless network device sharing (GrapeVine)](https://inobulles.github.io)
 
 # Meaningless but pretty stat embed?
 
