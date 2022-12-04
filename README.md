@@ -4,7 +4,7 @@ Obiwac.
 
 # What's my tEcH stACk?
 
-FreeBSD/Linux, VIM, VSCode, Firefox (<3), &c
+FreeBSD/Linux, VIM, Firefox (<3), &c
 
 # Languages?
 
