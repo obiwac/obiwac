@@ -15,9 +15,15 @@ Also certified CSS senior engineer (or so I'm told).
 
 Nutraloaf.
 
-# Projects?
+# Big projects?
 
 - [Minecraft clone & 3D graphics programming tutorial series in Python](https://github.com/obiwac/python-minecraft-clone)
 - [aquaBSD, OS forked from FreeBSD geared towards general users with a custom installer, WM & EGL compositor, UI system, apps, package format (ZPK) & distribution system (Pat Shack), and seamless network device sharing (GrapeVine)](https://inobulles.github.io)
+
+# Rando projects?
+
+- [Advanced cow visualisation tool](https://github.com/NovAti0n/MOOdle)
+- [Louvain-li-Nux Gamejam 2022](https://github.com/obiwac/lln-gamejam-2022)
+- [Xlib/GLX compositing window manager](https://github.com/obiwac/x-compositing-wm)
 
 Nuclear power is our way out, free Palestine, black lives matter, trans rights are human rights, legalize marijuana.
