@@ -23,7 +23,8 @@ Nutraloaf.
 # Rando projects?
 
 - [Advanced cow visualisation tool](https://github.com/NovAti0n/MOOdle)
-- [Louvain-li-Nux Gamejam 2022](https://github.com/obiwac/lln-gamejam-2022)
 - [Xlib/GLX compositing window manager](https://github.com/obiwac/x-compositing-wm)
+- [Louvain-li-Nux Gamejam 2022 (OpenGL/C)](https://github.com/obiwac/lln-gamejam-2022)
+- [Louvain-li-Nux Gamejam 2023 (Vulkan/Rust)](https://github.com/obiwac/lln-gamejam-2023)
 
 Nuclear power is our way out, free Palestine, black lives matter, trans rights are human rights, legalize marijuana.
