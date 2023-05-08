@@ -19,6 +19,7 @@ Nutraloaf.
 
 - [Minecraft clone & 3D graphics programming tutorial series in Python](https://github.com/obiwac/python-minecraft-clone)
 - [aquaBSD, OS forked from FreeBSD geared towards general users with a custom installer, WM & EGL compositor, UI system, apps, package format (ZPK) & distribution system (Pat Shack), and seamless network device sharing (GrapeVine)](https://inobulles.github.io)
+- [KARWa, ICPC-style francophone algorithmics contest organized jointly by the Louvain-li-Nux (in Louvain-la-Neuve) and CPUMons (in Mons)](https://github.com/karwa-org)
 
 # Rando projects?
 
