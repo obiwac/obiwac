@@ -1,5 +1,5 @@
 <p align="center">
-	[![GitHub Streak](https://streak-stats.demolab.com?user=obiwac&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+	<img src="https://streak-stats.demolab.com?user=obiwac&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Github stats" />
 </p>
   
 # Big projects
