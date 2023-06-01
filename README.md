@@ -1,3 +1,7 @@
+<p align="center">
+	[![GitHub Streak](https://streak-stats.demolab.com?user=obiwac&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+</p>
+  
 # Big projects
 
 - [Minecraft clone & 3D graphics programming tutorial series in Python](https://obiw.ac/mcpy)
@@ -13,4 +17,4 @@
 - [Louvain-li-Nux Gamejam 2023 (Vulkan/Rust)](https://github.com/obiwac/lln-gamejam-2023)
 - [GDPR presentation](https://obiw.ac/gdpr)
 
-Nuclear is our way out, free Palestine, black lives matter, trans rights are human rights, legalize marijuana.
+Stop funding fossil fuel companies with public money, free Palestine, black lives matter, trans rights are human rights, legalize marijuana.
