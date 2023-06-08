@@ -18,3 +18,5 @@
 - [GDPR presentation](https://obiw.ac/gdpr)
 
 Stop funding fossil fuel companies with public money, free Palestine, black lives matter, trans rights are human rights, legalize marijuana.
+
+L'Académie Française, Le Figaro -> 🤡
