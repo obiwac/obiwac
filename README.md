@@ -17,6 +17,6 @@
 - [Louvain-li-Nux Gamejam 2023 (Vulkan/Rust)](https://github.com/obiwac/lln-gamejam-2023)
 - [GDPR presentation](https://obiw.ac/gdpr)
 
-Stop funding fossil fuel companies with public money, free Palestine, black lives matter, trans rights are human rights, legalize marijuana.
+Stop funding fossil fuel companies with public money, repair *before* recycling, free Palestine, black lives matter, trans rights are human rights, legalize marijuana.
 
 L'Académie Française, Le Figaro -> 🤡
