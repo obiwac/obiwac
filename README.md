@@ -19,4 +19,6 @@
 
 Stop funding fossil fuel companies with public money, repair *before* recycling, free Palestine, black lives matter, trans rights are human rights, legalize marijuana.
 
+Piers Morgan is an insufferable asshole - stop acting like he's the smartest guy on Earth.
+
 L'Académie Française, Le Figaro -> 🤡
