@@ -1,7 +1,7 @@
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=obiwac&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&starting_year=2011" alt="Github stats" />
 </p>
-  
+
 # Big projects
 
 - [Minecraft clone & 3D graphics programming tutorial series in Python](https://obiw.ac/mcpy)
