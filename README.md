@@ -16,6 +16,10 @@
 - [Louvain-li-Nux Gamejam 2022 (OpenGL/C)](https://github.com/obiwac/lln-gamejam-2022)
 - [Louvain-li-Nux Gamejam 2023 (Vulkan/Rust)](https://github.com/obiwac/lln-gamejam-2023)
 - [GDPR presentation](https://obiw.ac/gdpr)
+- [Software running on the giant screen during the 24h Vélo in Louvain-la-Neuve](https://github.com/obiwac/24h-lln-screen)
+- [Port of BATMAN implementation (`batman-adv`) to FreeBSD](https://wiki.freebsd.org/SummerOfCode2023Projects/CallingTheBatmanFreeNetworksOnFreeBSD)
+- [Git workshop I made for Louvain-li-Nux with interactive exercises](https://gitlab.com/louvainlinux/training/atelier-git)
+- [Simple website for algorithmics at UCLouvain](https://alexisenglebert.github.io/)
 
 Stop funding fossil fuel companies with public money, repair *before* recycling, free Palestine, black lives matter, trans rights are human rights, legalize marijuana.
 
