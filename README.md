@@ -26,3 +26,5 @@ Stop funding fossil fuel companies with public money, repair *before* recycling,
 Piers Morgan is an insufferable asshole - stop acting like he's the smartest guy on Earth.
 
 L'Académie Française, Le Figaro -> 🤡
+
+[I think Microsoft might legitimately be run by a group of 5-year-olds.](https://learn.microsoft.com/en-us/microsoft-365/security/defender/microsoft-threat-actor-naming)
