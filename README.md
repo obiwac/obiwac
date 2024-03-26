@@ -15,7 +15,7 @@
 - [Xlib/GLX compositing window manager](https://github.com/obiwac/x-compositing-wm)
 - [Louvain-li-Nux Gamejam 2022 (OpenGL/C)](https://github.com/obiwac/lln-gamejam-2022)
 - [Louvain-li-Nux Gamejam 2023 (Vulkan/Rust)](https://github.com/obiwac/lln-gamejam-2023)
-- [Louvain-li-Nux Gamejam 2023 (WebGPU/Go)](https://github.com/obiwac/lln-gamejam-2024)
+- [Louvain-li-Nux Gamejam 2024 (WebGPU/Go)](https://github.com/obiwac/lln-gamejam-2024)
 - [GDPR presentation](https://obiw.ac/gdpr)
 - [Software running on the giant screen during the 24h Vélo in Louvain-la-Neuve](https://github.com/obiwac/24h-lln-screen)
 - [Port of BATMAN implementation (`batman-adv`) to FreeBSD](https://wiki.freebsd.org/SummerOfCode2023Projects/CallingTheBatmanFreeNetworksOnFreeBSD)
