@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://streak-stats.demolab.com/?user=obiwac&theme=transparent&hide_border=true&starting_year=2011" alt="Github stats" />
+	<img src="https://github-readme-streak-stats-eight.vercel.app?user=obiwac&theme=transparent&hide_border=true&starting_year=2011" alt="Github stats" />
 </p>
 
 # Big projects
